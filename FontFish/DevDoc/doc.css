@@ -1,0 +1,47 @@
+﻿body
+{
+    font-family: Tahoma, Verdana, Arial, Sans-Serif;
+    font-size:10pt;
+}
+a,a:visited,a:active{text-decoration: none; color:#000080;}
+a:hover{color:#0000ff;text-decoration:none;}
+
+div.classHierarchy
+{
+    background-color:#ffffa0;
+    border-radius:8px;
+    -webkit-border-radius:8px;
+    border:1px solid gray;
+    box-shadow:#808080 0.2 3.0;
+    -webkit-box-shadow: #808080 0.2 3.0;
+    min-width:200px;
+    width:auto;
+}
+div.classHierarchy span
+{
+    width:auto;
+    font-weight:bold;
+    border-bottom:1px solid black;
+}
+div.classHierarchy h1
+{
+    padding:1px;
+    font-size:10pt;
+    border:1px solid gray;
+    background-color:#ff8080;
+    padding-left:16px;
+    width:100%;
+    margin:0px;
+}    
+div.classHierarchy h2
+{
+    margin:0px;
+    font-size:10pt;
+    padding:1px;
+    border:1px solid gray;
+    background-color:#80ff80;
+    padding-left:32px;
+    width:100%;
+} 
+tr,td{border:1px solid silver;margin:0xp;}
+
